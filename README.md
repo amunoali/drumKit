@@ -2,9 +2,10 @@
 App allows you play instrument sounds. 
 
 ## Link to Project:
+https://druminstrument.netlify.app/
 
-
-      <img src="./images/drumKitReadme.png" alt="">
+ 
+ <img src="/images/drumKitReadme.png" alt="">
 
 
 ## How It's Made:
